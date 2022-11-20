@@ -1,0 +1,2 @@
+11-20 01:45:57.469  5408  5431 I TestRunner: started: useAppContext(com.example.hellotoast.ExampleInstrumentedTest)
+11-20 01:45:57.471  5408  5431 I TestRunner: finished: useAppContext(com.example.hellotoast.ExampleInstrumentedTest)
