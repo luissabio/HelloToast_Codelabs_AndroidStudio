@@ -14,5 +14,5 @@ _Tener instalado Android Studio_
 
 ## Autores ✒️
 
-* **Luis Serrano** - *Trabajo Inicial* - luis.serrano@sabiogroup.com
-* **Luis Serrano** - *Documentación* - luis.serrano@sabiogroup.com
+* **Luis Serrano** - *Trabajo Inicial* - luisserranomarin@gmail.com
+* **Luis Serrano** - *Documentación* - luisserranomarin@gmail.com
